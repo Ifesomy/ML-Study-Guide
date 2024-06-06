@@ -4,7 +4,7 @@ This my recommended study guide to get started with Machine Learning.
 
 Watch the video on [YouTube](https://youtu.be/wtolixa9XTg).
 
-## 1. Math
+## 1. Math Leraning
 
 Learn some math basics! Focus only on these topics, then come back later in case you need to learn more.
 
